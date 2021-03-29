@@ -19,7 +19,7 @@
         "yup": "^0.27.0"
     },
     "scripts": {
-        "start": "node server.js",
+        "start": "react-scripts start",
         "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install npm && run build",
         "build": "react-scripts build",
         "test": "react-scripts test",
