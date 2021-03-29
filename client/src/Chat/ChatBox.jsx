@@ -35,7 +35,7 @@ const useStyles = makeStyles((theme) => ({
     alignItems: "center",
     justifyContent: "center",
     height: "100%",
-    color: theme.palette.primary.dark,
+    color: theme.palette.secondary.dark,
   },
   messageContainer: {
     height: "100%",

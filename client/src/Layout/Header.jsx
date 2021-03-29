@@ -16,6 +16,8 @@ import logo from './logo.png';
 const useStyles = makeStyles(theme => ({
     root: {
         flexGrow: 1,
+        background:theme.palette.secondary.dark,
+
     },
     title: {
         flexGrow: 1,
